@@ -128,6 +128,22 @@ body {
         padding: 5%;
     }
     .apresentacao__conteudo {
-        width: auto;
+        width: 100%; 
+    }
+}
+
+@media (max-width: 768px) {
+    
+    .apresentacao__conteudo {
+        font-size: 1rem;
+    }
+    .apresentacao__conteudo__titulo {  
+        font-size: 1.5rem;
+    }
+    .apresentacao__links__subtitulo{
+        font-size: 1.3rem;
+    }
+    .apresentacao__imagem {
+        width: 100%;     
     }
 }
