@@ -10,5 +10,5 @@ Este é o meu portfólio pessoal, criado com **HTML** e **CSS**, que apresenta m
 ## 📸 Pré-visualização
 
 <p style="text-align: center;">
-    <img src="./assets/Portfolio.png" alt="Print da tela inicial do portfólio" width="600">
+    <img src="./assets/Portfolioprint.png" alt="Print da tela inicial do portfólio" width="600">
 </p>
